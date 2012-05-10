@@ -1,0 +1,15 @@
+{
+  "name": "passport-twitter-sample",
+  "description": "A small sample application for testing out the capabilities of passport/passport-twitter.",
+  "version": "0.0.1",
+  "author": "Jan Van Ryswyck (http://elegantcode.com)",
+  "engines": {
+    "node": "0.6.x"
+  },
+  "dependencies": {
+    "express": "2.5.x",
+    "jade": "0.x.0",
+    "passport": "0.1.x",
+    "passport-twitter": "0.1.x"
+  }
+}
