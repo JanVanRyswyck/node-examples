@@ -1,5 +1,5 @@
 Add the following line to /etc/hosts
 after configuring a Twitter app for
-this URL.
+this URL at https://dev.twitter.com/.
 
 127.0.0.1   test.passport-twitter.com
