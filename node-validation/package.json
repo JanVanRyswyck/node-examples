@@ -1,0 +1,12 @@
+{
+  "name": "node-validation-sample",
+  "description": "A small sample application for testing out the capabilities of node-validation.",
+  "version": "0.0.1",
+  "author": "Jan Van Ryswyck (http://elegantcode.com)",
+  "engines": {
+    "node": "0.10.x"
+  },
+  "dependencies": {
+    "node-validation": "0.1.x"
+  }
+}
